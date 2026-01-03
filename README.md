@@ -21,9 +21,9 @@
 
 | Project | Description | Skills Covered | Demo GIF |
 |--------|-------------|----------------|----------|
-| 💰 **Sales Analytics** | Customer & Order Analysis | `JOINs, GROUP BY, HAVING, ORDER BY` | ![Sales Demo](https://media.giphy.com/media/xUOwGfXvwT3xxrIhDe/giphy.gif) |
-| 🏢 **Employee Database** | HR & Salary Analysis | `CASE, Aggregates, Subqueries` | ![Employee Demo](https://media.giphy.com/media/l41lXJGq5B0fB3Wc0/giphy.gif) |
-| 📚 **Library Management** | Book Borrowing Analysis | `DISTINCT, COUNT, JOINs` | ![Library Demo](https://media.giphy.com/media/26gslNsy8Z1KpEzn6/giphy.gif) |
+| 💰 **Sales Analytics** | Customer & Order Analysis | `JOINs, GROUP BY, HAVING, ORDER BY`
+| 🏢 **Employee Database** | HR & Salary Analysis | `CASE, Aggregates, Subqueries`
+| 📚 **Library Management** | Book Borrowing Analysis | `DISTINCT, COUNT, JOINs`
 
 > 🔹 GIFs are placeholders — you can replace them with **screen recordings of your queries running** in MySQL or PostgreSQL.
 
